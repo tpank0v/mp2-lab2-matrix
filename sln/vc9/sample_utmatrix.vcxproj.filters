@@ -6,17 +6,11 @@
       <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
     </Filter>
     <Filter Include="Header Files">
-      <UniqueIdentifier>{a49422cc-f87f-4ee1-baff-35c4c4fbcb05}</UniqueIdentifier>
+      <UniqueIdentifier>{36305c70-60ff-46b2-86f9-3979e1456d9d}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\test\test_main.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\test\test_tvector.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\test\test_tmatrix.cpp">
+    <ClCompile Include="..\..\samples\sample_matrix.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
